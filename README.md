@@ -1,7 +1,7 @@
 # Creating custom maps for Pest Apocalypse
 This guide is first to help you create your own maps for Pest Apocalypse, a game made in the Godot game engine. 
 With help from the game's developers to encourage maps and modding, importing maps has been made incredibly easy.<br />
-This guide is written with the goal to make it as simple as possible, for someone who's never even opened Godot before. (though experience with Godot, other game engines, or 3D software is recommended). It may aid in helping create mods for other Godot Games as well. 
+This guide is written with the goal to make it as simple as possible, for someone who's never even opened Godot before. (though experience with Godot, other game engines, or 3D software is recommended). It may aid in helping create mods and providing modding knowledge for other Godot Games as well. 
 
 ## Tools
 To start, You're going to need:<br />
