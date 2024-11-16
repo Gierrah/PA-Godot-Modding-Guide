@@ -4,8 +4,8 @@ With help from the game's developers to encourage maps and modding, importing ma
 This guide is written with the goal to make it as simple as possible, for someone who's never even opened Godot before. (though experience with Godot, other game engines, or 3D software is recommended). It may aid in helping create mods and providing modding knowledge for other Godot Games as well. 
 
 ### This guide it written for the full release of Pest Apocalypse
-The Demo uses an older version of terrain3d than the Paytesting release this guide is based on.
-To discuss the modding community, join the Kikimora games discord https://discord.com/invite/sSmGbJSa4E
+The Demo uses an older version of terrain3d than the Paytesting release this guide is based on.<br />
+To discuss with the modding community, join the Kikimora games discord https://discord.com/invite/sSmGbJSa4E
 
 ## Tools
 To start, You're going to need:<br />
