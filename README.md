@@ -9,8 +9,7 @@ GDRE Tools (https://github.com/bruvzg/gdsdecomp) and Godot 4.3 .NET (https://god
 You're also going to need these Godot Addons<br />
 DebugDraw 3 (https://godotengine.org/asset-library/asset/1766)<br />
 Godot Jolt (https://godotengine.org/asset-library/asset/1918)<br />
-Terrain3d v0.9.2b (https://github.com/TokisanGames/Terrain3D/releases/tag/v0.9.2-beta)<br />
-(This is the version used in the current PA Playtest. It may be changed in the future)<br />
+Terrain3d v0.9.3 ([https://github.com/TokisanGames/Terrain3D/releases/tag/v0.9.2-beta](https://github.com/TokisanGames/Terrain3D/releases/tag/v0.9.3-beta))<br />
 Protonscatter (https://godotengine.org/asset-library/asset/1866)<br />
 <br />
 Because much of Pest Apocalypse is written in C#, GDRE tools will not provide access to everything script related in the game. It also doesn't completely work for all the addons which is why we're downloading them separately. We are still able to work around these limitations, by movings scenes and assets into our own mod folder to edit them.<br />
