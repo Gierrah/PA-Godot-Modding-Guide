@@ -3,10 +3,6 @@ This guide is first to help you create your own maps for Pest Apocalypse, a game
 With help from the game's developers to encourage maps and modding, importing maps has been made incredibly easy.<br />
 This guide is written with the goal to make it as simple as possible, for someone who's never even opened Godot before. (though experience with Godot, other game engines, or 3D software is recommended). It may aid in helping create mods and providing modding knowledge for other Godot Games as well. 
 
-### This guide it written for the full release of Pest Apocalypse
-The current Demo uses an older version of terrain3d than the Playtesting release this guide is based on.<br />
-To discuss with the modding community, join the Kikimora games discord https://discord.com/invite/sSmGbJSa4E
-
 ## Tools
 To start, You're going to need:<br />
 Your game (Pest Apocalypse) (https://store.steampowered.com/app/2506810/Pest_Apocalypse/)<br />
